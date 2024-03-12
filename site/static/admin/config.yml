@@ -3,9 +3,13 @@ backend:
   repo: nllcommunity/nllcommunity.github.io
   branch: main
   site_domain: nllcommunity.github.io
+  open_authoring: true
+  squash_merges: true
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
+
+publish_mode: "editorial_workflow"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
