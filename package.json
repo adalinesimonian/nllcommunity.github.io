@@ -36,7 +36,7 @@
     "copy-webpack-plugin": "^9.1.0",
     "cross-env": "^7.0.3",
     "css-loader": "^6.5.1",
-    "css-minimizer-webpack-plugin": "^4.0.0",
+    "css-minimizer-webpack-plugin": "^7.0.0",
     "eslint": "^8.2.0",
     "eslint-plugin-cypress": "^2.13.3",
     "eslint-plugin-import": "^2.26.0",
